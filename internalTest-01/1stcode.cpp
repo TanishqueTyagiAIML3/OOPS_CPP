@@ -13,7 +13,7 @@ Student(string n,int r,int p,int c,int m){
     math=m;
 }
 void display(){
-    cout<<"Student name"<<name<<endl;
+    cout<<"Student name is"<<name<<endl;
     cout<<"Student roll no "<<roll<<endl;
     cout<<"Mark in Physic"<<phy<<endl;
     cout<<"Mark in Chemistry"<<chem<<endl;
