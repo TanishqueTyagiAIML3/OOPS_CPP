@@ -15,9 +15,9 @@ Student(string n,int r,int p,int c,int m){
 void display(){
     cout<<"Student name is"<<name<<endl;
     cout<<"Student roll no "<<roll<<endl;
-    cout<<"Mark in Physic"<<phy<<endl;
-    cout<<"Mark in Chemistry"<<chem<<endl;
-    cout<<"Mark in Maths"<<math;
+    cout<<"Mark in Physic "<<phy<<endl;
+    cout<<"Mark in Chemistry "<<chem<<endl;
+    cout<<"Mark in Maths "<<math;
 }
 };
 int main(){
